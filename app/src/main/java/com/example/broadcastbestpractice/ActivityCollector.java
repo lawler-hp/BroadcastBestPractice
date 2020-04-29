@@ -15,7 +15,7 @@ public class ActivityCollector {
 
     /**
      * 添加一个活动
-     * @param activity
+     * @param activity 代表一个活动
      */
     public static void addActivity(Activity activity){
         activities.add(activity);
